@@ -1,0 +1,87 @@
+run:
+Security java program by Victoria
+Last acessed:18 Mar 2013 19:45:30 GMT
+Password Error
+[	   User ID is:  1	         Name is: 1 
+
+, 	   User ID is: 2	         Name is: 2
+
+, 	   User ID is:  2	         Name is: 1 
+
+, 	   User ID is:  3	         Name is: 3 
+
+, 	   User ID is: 3	         Name is: 3
+
+, 	   User ID is:  1	         Name is: 1 
+
+, 	   User ID is:  1	         Name is: 1 
+
+, 	   User ID is: test	         Name is: test
+
+, 	   User ID is: 2	         Name is: 2
+
+, 	   User ID is: hi 	         Name is: hi 
+
+, 	   User ID is:  a	         Name is: a 
+
+, 	   User ID is:  b	         Name is: b 
+
+, 	   User ID is: me 	         Name is: me 
+
+, 	   User ID is: hi 	         Name is: hi 
+
+, 	   User ID is: person 	         Name is: person 
+
+]
+Information has been saved to user.txt
+Information has been saved to user.txt
+		REGISTERED USERS 
+
+	   User ID is:  1	         Name is: 1 
+
+
+	   User ID is: 2	         Name is: 2
+
+
+	   User ID is:  2	         Name is: 1 
+
+
+	   User ID is:  3	         Name is: 3 
+
+
+	   User ID is: 3	         Name is: 3
+
+
+	   User ID is:  1	         Name is: 1 
+
+
+	   User ID is:  1	         Name is: 1 
+
+
+	   User ID is: test	         Name is: test
+
+
+	   User ID is: 2	         Name is: 2
+
+
+	   User ID is: hi 	         Name is: hi 
+
+
+	   User ID is:  a	         Name is: a 
+
+
+	   User ID is:  b	         Name is: b 
+
+
+	   User ID is: me 	         Name is: me 
+
+
+	   User ID is: hi 	         Name is: hi 
+
+
+	   User ID is: person 	         Name is: person 
+
+
+BUILD SUCCESSFUL (total time: 39 seconds)
+
+
